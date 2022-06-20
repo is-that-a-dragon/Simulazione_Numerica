@@ -1,0 +1,8 @@
+0.8
+0.25
+0
+
+
+  ReadInput >> crossover probability
+  ReadInput >> mutation probability
+  ReadInput >> elite genetic algorithm

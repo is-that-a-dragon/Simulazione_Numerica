@@ -1,0 +1,14 @@
+1
+34
+2
+0.6
+0.05
+1
+
+
+  ReadInput >> circle; 0=square, 1=circle
+  ReadInput >> N città nel percorso;
+  ReadInput >> dimensione, n coordinates per city;
+  ReadInput >> crossover probability
+  ReadInput >> mutation probability
+  ReadInput >> elite genetic algorithm
